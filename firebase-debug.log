@@ -1,0 +1,21 @@
+[debug] [2025-07-08T14:00:58.147Z] ----------------------------------------------------------------------
+[debug] [2025-07-08T14:00:58.151Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Eman-Pc\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-07-08T14:00:58.151Z] CLI Version:   14.9.0
+[debug] [2025-07-08T14:00:58.152Z] Platform:      win32
+[debug] [2025-07-08T14:00:58.152Z] Node Version:  v22.17.0
+[debug] [2025-07-08T14:00:58.152Z] Time:          Tue Jul 08 2025 19:00:58 GMT+0500 (Pakistan Standard Time)
+[debug] [2025-07-08T14:00:58.152Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-07-08T14:00:58.159Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-07-08T14:00:58.160Z] > authorizing via signed-in user (blynkshop.pk@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Eman-Pc\mobistore
+
